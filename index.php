@@ -3,8 +3,6 @@ get_header();
 
 //this is the git comment?>
 
-//git comment on branch comments?>
-
 <div class="container-fluid">
     
     <div class="row missing-row">
