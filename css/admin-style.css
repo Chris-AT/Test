@@ -1,0 +1,43 @@
+.clicktodelete {
+    display: none;
+}
+
+.relative-container .clicktodelete {
+    display: table;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    cursor: pointer;
+    z-index: 999;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    text-align: center;
+    color: #FFF;
+}
+
+.relative-container .deletetext {
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.relative-container {
+    position: relative;
+    float: left;
+    width: auto;
+    height: auto;
+    margin: 0.5em;
+}
+
+.add-attribute-button {
+    margin-top: 1em;
+}
+
+.attribute {
+    margin-top: 0.5em;
+}
+
+.contact_table th {
+    width: auto;
+}

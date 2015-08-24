@@ -1,0 +1,50 @@
+/*
+Theme Name: Missing Person
+Author: Chris-AT
+Version: 1.0
+Description: This theme is designed to make the setup of a website for a missing person easy and fast on a single setup page.
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.missing {
+    width: 100%;
+    text-align: center;
+    padding: 0.2em 0em;
+    background-color: #FF0000;
+    color: #FFF;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.person-main-picture {
+    width: 100%;
+}
+
+.person-description {
+    margin-top: 1em;
+}
+
+.missing-row {
+    background-color: #FF0000;
+}
+
+.gallery-picture {
+    width: 200px;
+}
+
+.row * {
+    max-width: 100%;
+}
+
+#links {
+    margin-top: 1em;
+}
+
+.attributes {
+    font-size: 1.5em;
+}
+
+.contact {
+    font-size: 1.5em;
+}
