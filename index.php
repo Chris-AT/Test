@@ -1,5 +1,6 @@
 <?php
-get_header(); ?>
+get_header();
+//added this comment ?>
 
 <div class="container-fluid">
     
