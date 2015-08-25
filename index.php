@@ -1,10 +1,5 @@
 <?php
-get_header(); 
-
-//this is the git comment
-//uncommitted comment
-// some changes are good!
-//on branch new branch?>
+get_header(); ?>
 
 <div class="container-fluid">
     
